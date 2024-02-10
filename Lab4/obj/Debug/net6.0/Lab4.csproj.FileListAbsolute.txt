@@ -1,0 +1,15 @@
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/bin/Debug/net6.0/Lab4
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/bin/Debug/net6.0/Lab4.deps.json
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/bin/Debug/net6.0/Lab4.runtimeconfig.json
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/bin/Debug/net6.0/Lab4.dll
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/bin/Debug/net6.0/Lab4.pdb
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.csproj.AssemblyReference.cache
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfoInputs.cache
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.AssemblyInfo.cs
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.csproj.CoreCompileInputs.cache
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.dll
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/refint/Lab4.dll
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.pdb
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/Lab4.genruntimeconfig.cache
+/home/gebel/Desktop/KSU/Semester 1/CSE/Lab4/Lab4/obj/Debug/net6.0/ref/Lab4.dll
